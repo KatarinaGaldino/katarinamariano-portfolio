@@ -84,7 +84,10 @@
     height: 30px;
 }
 @media (min-width: 1200px) { 
-    
+    .imgPerfil{
+        width: 350px;
+        height: 350px;
+    } 
 }
 
 @media (min-width: 992px) and (max-width: 1199.98px) {
@@ -104,7 +107,11 @@
     }   
     .phrase{
         font-size: 200%;
-    }   
+    }  
+    .imgPerfil{
+        width: 300px;
+        height: 300px;
+    }  
 }
 @media (min-width: 768px) and (max-width: 991.98px) { 
     .sectionMain , .sectionTwo{       
@@ -123,6 +130,16 @@
     }   
     .phrase{
         font-size: 180%;
+    }  
+    .imgPerfil{
+        width: 300px;
+        height: 300px;
+    }  
+    .fontH1{
+        font-size: 30px;
+    }
+    .fontH4{
+        font-size: 17px;
     }   
 }
 
@@ -143,7 +160,17 @@
     }  
     .phrase{
         font-size: 180%;
-    }    
+    }  
+    .imgPerfil{
+        width: 300px;
+        height: 300px;
+    }  
+    .fontH1{
+        font-size: 30px;
+    }
+    .fontH4{
+        font-size: 17px;
+    }  
    
 }
 @media (max-width: 575.98px) {
@@ -167,10 +194,30 @@
     .image{
         width: 100px;
         height: 100px;
+    }
+    .imgPerfil{
+        width: 250px;
+        height: 250px;
+    }
+    .fontH1{
+        font-size: 25px;
+    }
+    .fontH4{
+        font-size: 15px;
     }    
 }
 @media (max-width: 300px) {
     .sectionMain , .sectionTwo{       
         background-attachment: fixed;      
     }
+    .imgPerfil{
+        width: 250px;
+        height: 250px;
+    }
+    .fontH1{
+        font-size: 25px;
+    }
+    .fontH4{
+        font-size: 15px;
+    } 
 }
