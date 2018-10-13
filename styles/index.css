@@ -1,5 +1,5 @@
 .navbar-brand{
-    color: orangered;
+    color: orangered !important;
 }
 .icon{
     font-size: 20px;
