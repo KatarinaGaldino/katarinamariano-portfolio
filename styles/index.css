@@ -118,6 +118,12 @@
         width: 300px;
         height: 300px;
     }  
+    .navbar-brand{
+        color: orangered !important;
+    }
+    .icon{
+        font-size: 20px;
+    }
 }
 @media (min-width: 768px) and (max-width: 991.98px) { 
     .sectionMain , .sectionTwo{       
@@ -147,6 +153,12 @@
     .fontH4{
         font-size: 17px;
     } 
+    .navbar-brand{
+        color: orangered !important;
+    }
+    .icon{
+        font-size: 20px;
+    }
      
 }
 
@@ -178,6 +190,12 @@
     .fontH4{
         font-size: 17px;
     }  
+    .navbar-brand{
+        color: orangered !important;
+    }
+    .icon{
+        font-size: 20px;
+    }
    
 }
 @media (max-width: 575.98px) {
@@ -211,7 +229,13 @@
     }
     .fontH4{
         font-size: 15px;
-    }    
+    }  
+    .navbar-brand{
+        color: orangered !important;
+    }
+    .icon{
+        font-size: 20px;
+    }  
 }
 @media (max-width: 300px) {
     .sectionMain , .sectionTwo{       
@@ -227,4 +251,10 @@
     .fontH4{
         font-size: 15px;
     } 
+    .navbar-brand{
+        color: orangered !important;
+    }
+    .icon{
+        font-size: 20px;
+    }
 }
