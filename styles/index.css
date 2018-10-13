@@ -121,9 +121,7 @@
     .navbar-brand{
         color: orangered !important;
     }
-    .icon{
-        font-size: 20px;
-    }
+    
 }
 @media (min-width: 768px) and (max-width: 991.98px) { 
     .sectionMain , .sectionTwo{       
@@ -156,9 +154,7 @@
     .navbar-brand{
         color: orangered !important;
     }
-    .icon{
-        font-size: 20px;
-    }
+    
      
 }
 
@@ -192,9 +188,6 @@
     }  
     .navbar-brand{
         color: orangered !important;
-    }
-    .icon{
-        font-size: 20px;
     }
    
 }
@@ -233,9 +226,7 @@
     .navbar-brand{
         color: orangered !important;
     }
-    .icon{
-        font-size: 20px;
-    }  
+    
 }
 @media (max-width: 300px) {
     .sectionMain , .sectionTwo{       
@@ -253,8 +244,5 @@
     } 
     .navbar-brand{
         color: orangered !important;
-    }
-    .icon{
-        font-size: 20px;
     }
 }
