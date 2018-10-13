@@ -1,3 +1,9 @@
+.navbar-brand{
+    color: orangered;
+}
+.icon{
+    font-size: 20px;
+}
 .sectionMain{
     background: url('../img/Hd-Laptop-wallpapers.jpg');     
     background-position: center center;
@@ -23,7 +29,7 @@
     height: 50vh;
 }
 .navCustom{
-    background-color: rgba(0, 0, 0, 0.562) !important; 
+    background-color: rgba(0, 0, 0, 0.938) !important; 
 }
 .icon-bar{
     background-color: orangered;
@@ -135,12 +141,13 @@
         width: 300px;
         height: 300px;
     }  
-    .fontH1{
+    .fontH1, .titleProjects{
         font-size: 30px;
     }
     .fontH4{
         font-size: 17px;
-    }   
+    } 
+     
 }
 
 @media (min-width: 576px) and (max-width: 767.98px) { 
@@ -165,7 +172,7 @@
         width: 300px;
         height: 300px;
     }  
-    .fontH1{
+    .fontH1, .titleProjects{
         font-size: 30px;
     }
     .fontH4{
@@ -199,7 +206,7 @@
         width: 250px;
         height: 250px;
     }
-    .fontH1{
+    .fontH1, .titleProjects{
         font-size: 25px;
     }
     .fontH4{
@@ -214,7 +221,7 @@
         width: 250px;
         height: 250px;
     }
-    .fontH1{
+    .fontH1, .titleProjects{
         font-size: 25px;
     }
     .fontH4{
