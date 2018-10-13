@@ -88,6 +88,9 @@
 }
 
 @media (min-width: 992px) and (max-width: 1199.98px) {
+    .sectionMain , .sectionTwo{       
+        background-attachment: fixed;      
+    }
     .myName{ 
         font-size: 450%;           
     }
@@ -104,6 +107,9 @@
     }   
 }
 @media (min-width: 768px) and (max-width: 991.98px) { 
+    .sectionMain , .sectionTwo{       
+        background-attachment: fixed;      
+    }
     .myName{ 
         font-size: 350%;           
     }
@@ -121,6 +127,9 @@
 }
 
 @media (min-width: 576px) and (max-width: 767.98px) { 
+    .sectionMain , .sectionTwo{       
+        background-attachment: fixed;      
+    }
     .myName{ 
         font-size: 350%;           
     }
@@ -138,6 +147,9 @@
    
 }
 @media (max-width: 575.98px) {
+    .sectionMain , .sectionTwo{       
+        background-attachment: fixed;      
+    }
     .myName{ 
         font-size: 270%;           
     }
@@ -158,5 +170,7 @@
     }    
 }
 @media (max-width: 300px) {
-   
+    .sectionMain , .sectionTwo{       
+        background-attachment: fixed;      
+    }
 }
