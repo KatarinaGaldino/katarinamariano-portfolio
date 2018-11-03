@@ -1,0 +1,104 @@
+.container{
+    width: 100%;
+}
+.cont{
+    padding-bottom: 5%;
+}
+.cont2{
+    padding-bottom: 1%;
+}
+.preenchimento{
+    padding-left: 0% !important;
+}
+.navFixa{
+    position: fixed;
+}
+.nav-sidebar{
+    height: 100vh;
+}
+.icon{
+    font-size: 20px;
+}
+.navbar-brand{
+    color: orangered !important;
+}
+.text-left{
+    position: relative;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.corNav{
+    background-color: rgba(0, 0, 0, 0.938) !important; 
+}
+.corNav2{
+    background-color:white!important;
+}
+.item-sidebar {
+    color: white !important;
+}
+.tituloMenu{
+    position: relative;;
+    padding-top: 15%;
+}
+.itemMenuInicio{
+    position: relative;
+    margin-top: 20%;
+    font-size: 20px;
+}
+.itemMenu{
+    font-size: 20px;
+}
+.itemMenu2{
+    font-size: 20px;
+}
+.nav li a:hover {
+    color: #ffffff !important;
+    background-color: orangered !important;
+    text-align: center;
+}
+.active{
+    color: #ffffff !important;
+    background-color: orangered !important;
+    text-align: center;
+    border: 1px solid rgb(104, 104, 100);
+}
+.imgPerfil{
+    width: 120px;
+    height: 120px;
+}
+.titulo{
+    font-size: 40px;
+}
+@media only screen and (min-width: 992px) and (max-width: 1199.98px) {       
+    
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .imgPerfil{
+        width: 100px;
+        height: 100px;
+    }
+    .titulo{
+        font-size: 40px;
+    }
+}
+    
+@media (min-width: 576px) and (max-width: 767.98px) {    
+    .imgPerfil{
+        width: 90px;
+        height: 90px;
+    }
+    .titulo{
+        font-size: 35px;
+    }
+}
+@media (max-width: 575.98px) {  
+    .titulo{       
+        font-size: 25px;
+    }
+}
+@media only screen and (max-width:367.98px) {
+    .titulo{
+        font-size: 20px;
+    } 
+    
+}
